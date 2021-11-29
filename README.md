@@ -1,2 +1,2 @@
 # CRUDOPERATIONSDJANGO
-Practicing django CRUD(Create Read Update Delete) data operation 
+Practicing django CRUD(Create Read Update Delete)operations
